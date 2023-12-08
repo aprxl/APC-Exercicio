@@ -41,3 +41,5 @@ O exercício sempre te dá a quantidade de repetições necessárias, portanto, 
 um **for**.
 
 Use o primeiro inteiro da lista como base para fazer as comparações.
+
+**Não é necessário** que se utilize vetores neste exercício!
