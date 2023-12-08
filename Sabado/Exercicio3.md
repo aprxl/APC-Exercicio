@@ -1,4 +1,4 @@
-# Exercício 2
+# Exercício 3
 ## Módulo 1 - For e While
 
 > Dificuldade: Complicado
