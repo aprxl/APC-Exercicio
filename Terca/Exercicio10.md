@@ -1,4 +1,4 @@
-# Exercício 9
+# Exercício 10
 ## Módulo 4 - Strings
 
 > Dificuldade: Complicado
